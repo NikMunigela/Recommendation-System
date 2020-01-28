@@ -15,8 +15,8 @@ The program works by implementing and comparing techniques such as SVD (Singular
 * Accuracy of the models is computed
 * Results are tabulated along with the time taken for model development.
 
-## Contributions ##
-* *Nikhil Munigela
-* *Jathin Badam
-* *Karthik Jagini
-* *Nikhil Kandukuri
+## Team ##
+* *Nikhil Munigela*
+* *Jathin Badam*
+* *Karthik Jagini*
+* *Nikhil Kandukuri*

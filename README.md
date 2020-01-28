@@ -1,5 +1,5 @@
 # Recommendation-System #
-A recommender system that suggests relevant movies to the user based on previously rated and viewed movies, and on the movies that can be classified under similar features and genres using various Information Retrieval techniques based on dimensionality reduction and feature extraction.
+A recommender system that suggests relevant movies to the user based on previously rated and viewed movies, and on the movies that can be classified under similar features and genres using various Information Retrieval techniques based on dimensionality reduction and feature extraction.<br/>
 Recommender systems are an integral part of various product and movie streaming services to recommend corresponding commodities to the user based on their interests.
 
 ## Functionality ##
